@@ -1,0 +1,2 @@
+# generator-autostart
+generator autostart
