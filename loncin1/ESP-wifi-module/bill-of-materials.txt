@@ -1,0 +1,12 @@
+BILL OF MATERIALS
+
+--Wi-Fi module--
+- 1x ESP32WROOM or similar
+- 0-2 Arduino 5V Relay, if you want to control the generator in one or both ways
+- 0-3 LED in different colors, if any combination of LED indication is wanted
+- Normally Open external reset switch could come in handy (has for me anyway).
+
+--TRANSFER BOX--
+- 115V monitoring relay to detect whether the generator is supplying power or not
+- ["mains ok" could be taken from the Mains contactor helper contacts, or add another relay for Mains monitoring]
+- ["generator connected" could be taken from the Generator contactor helper contacts, or add another relay for monitoring]

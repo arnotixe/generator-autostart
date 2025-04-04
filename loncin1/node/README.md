@@ -1,0 +1,1 @@
+Would be great to have this ported to nodejs or firebase. Feel free - the API is pretty simple (see php folder)

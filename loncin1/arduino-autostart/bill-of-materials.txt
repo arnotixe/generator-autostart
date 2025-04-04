@@ -1,0 +1,13 @@
+BILL OF MATERIALS
+
+--AUTOSTART--
+- 1x Arduino nano or similar
+- 1x servo motor, 0-180°, preferrably one with metallic gears, as vibration will kill the cheapos. Might kill the metallic one too.
+- Mushroom latching normally closed Emergency stop. MUST BE CONNECTED IN A WAY THAT IT KILLS THE GENERATOR IF PUSHED.
+- 3 Arduino 5V Relays
+  - Connect 
+- 0-2 LED in different colors, if any combination of LED indication is wanted
+- Normally Closed MANUAL/AUTO switch could come in handy (has for me anyway).
+
+--TRANSFER BOX--
+- 2x contactors with at least 1x NO and 1x NC contact set (preferrably 2 sets each contactor)
